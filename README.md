@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Pathan Mo. Faizan Khan.
 - 👀 I’m interested in Artificial intelligence and Machine Learning. 
 - 🌱 I’m currently learning Computer Science and Engineering.
-- 📫 How to reach me www.linkedin.com/in/pathan-mo-faizan-khan-2ba8ab290
+- 📫 How to reach me https://www.linkedin.com/in/pathan-mo-faizan-khan/
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: Humans are engaging and machines are learning.
 
