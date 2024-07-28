@@ -4,6 +4,7 @@
 - 👀 I’m interested in Artificial intelligence and Machine Learning. 
 - 🌱 I’m currently learning Computer Science and Engineering.
 - 📫 How to reach me https://www.linkedin.com/in/pathan-mo-faizan-khan/
+- ✨Portfolio https://pathan-mo-faizan-khan.my.canva.site/
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: Humans are engaging and machines are learning.
 
