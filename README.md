@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Pathan Mo. Faizan Khan.
 - 🚀Intern at Scaler School Of Technology.
 - 🌟Intern at InternPe In AI\ML
-- 👀 I’m interested in Artificial intelligence and Machine Learning. 
+- 👀 I’m interested in Artificial intelligence and Machine Learning.
+-😎Intern at CodSoft as Python Developer.
 - 🌱 I’m currently learning Computer Science and Engineering.
 - 📫 How to reach me https://www.linkedin.com/in/pathan-mo-faizan-khan/
 - ✨Portfolio https://pathan-07.github.io/pathan/
