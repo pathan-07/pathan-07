@@ -33,7 +33,7 @@
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=c,py,windows,replit,github,git,vscode,ai,pkl,sklearn,matlab)](https://skillicons.dev)
 
-![Asif Taj's GitHub stats](https://github-readme-stats.vercel.app/api?username=pathan-07&show_icons=true&theme=dark)
+![Pathan Faizan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pathan-07&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pathan-07&theme=dark)
 
