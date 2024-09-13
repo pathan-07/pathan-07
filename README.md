@@ -4,7 +4,7 @@
 
 - 👀 I’m interested in Artificial intelligence and Machine Learning.
 
-- -😎Intern at CodSoft as Python Developer.
+- -😎Ex-Intern at CodSoft as Python Developer.
 
 - 🌱 I’m currently learning Computer Science and Engineering.
 
