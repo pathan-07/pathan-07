@@ -1,6 +1,6 @@
  <h1 align="center">Hi 👋, I'm Pathan Faizan</h1>
 
-- 🚀Intern at Scaler School Of Technology.
+- 🚀Ex-Intern at Scaler School Of Technology.
 
 - 👀 I’m interested in Artificial intelligence and Machine Learning.
 
