@@ -1,12 +1,14 @@
  <h1 align="center">Hi 👋, I'm Pathan Faizan</h1>
 
-- 🚀Ex-Intern at Scaler School Of Technology.
-
-- 👀 I’m interested in Artificial intelligence and Machine Learning.
-
-- -😎Ex-Intern at CodSoft as Python Developer.
-
-- 🌱 I’m currently learning Computer Science and Engineering.
+- 🚀 Former Intern at Scaler School of Technology, contributing to cutting-edge projects.
+  
+- 😎 Former Python Developer Intern at CodSoft, honing expertise in Python.
+  
+- 🌟 Former Intern at Edunet foundation, gaining hands-on experience in AI and technology innovation.
+   
+- 👀 Passionate about Artificial Intelligence, Machine Learning, and their transformative potential.
+  
+- 🌱 Currently pursuing a degree in Computer Science and Engineering, continuously expanding my skill set and knowledge.  
 
 - 📫 How to reach me https://www.linkedin.com/in/pathan-mo-faizan-khan/
 
