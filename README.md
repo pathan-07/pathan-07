@@ -1,10 +1,6 @@
  <h1 align="center">Hi 👋, I'm Pathan Faizan</h1>
 
 - 🚀 Former Intern at Scaler School of Technology, contributing to cutting-edge projects.
-  
-- 😎 Former Python Developer Intern at CodSoft, honing expertise in Python.
-  
-- 🌟 Former Intern at Edunet foundation, gaining hands-on experience in AI and technology innovation.
    
 - 👀 Passionate about Artificial Intelligence, Machine Learning, and their transformative potential.
   
