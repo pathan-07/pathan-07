@@ -8,7 +8,7 @@
 
 - 📫 How to reach me https://www.linkedin.com/in/pathan-mo-faizan-khan/
 
-- ✨Portfolio https://pathan-07.github.io/pathan/
+- ✨Portfolio https://pathan-07.github.io/pathan/](https://faizankhan-50xh.onrender.com
 
 - 😄 Pronouns: he/him.
 
