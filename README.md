@@ -6,9 +6,9 @@
   
 - 🌱 Currently pursuing a degree in Computer Science and Engineering, continuously expanding my skill set and knowledge.  
 
-- 📫 How to reach me https://www.linkedin.com/in/pathan-mo-faizan-khan/
+- 📫 How to reach me https://www.linkedin.com/in/pathan-mo-faizan-khan
 
-- ✨Portfolio https://pathan-07.github.io/pathan/](https://faizankhan-50xh.onrender.com
+- ✨Portfolio https://pathan-faizan-khan.vercel.app
 
 - 😄 Pronouns: he/him.
 
