@@ -1,85 +1,87 @@
-<!-- Banner / Intro Section -->
-<h1 align="center">Hey there 👋, I'm <span style="color:#00BFFF;">Pathan Faizan</span></h1>
-<h3 align="center">🚀 AI & Machine Learning Enthusiast | Full-Stack Developer | Tech Explorer</h3>
+<!-- 🌸 Animated Banner -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=4000&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=👋+Hey%2C+I'm+Pathan+Faizan!;💻+AI+%26+ML+Developer;🚀+Tech+Explorer+%7C+Anime+Lover;⚡+Let's+build+something+awesome!" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <a href="https://pathan-faizan-khan.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=react&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/pathan-mo-faizan-khan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/pathan-07"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://x.com/its_khan_070"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://www.instagram.com/its_khan_070"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <img src="https://i.ibb.co/Z1mRZQW/ghibli-sky.gif" width="100%" alt="Banner"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me  
+### 🌌 About Me  
 
-💡 I’m a **Computer Science and Engineering** student passionate about exploring how **AI and technology** can transform real-world challenges into scalable solutions.  
+Hey there! I’m **Pathan Faizan**, a **Computer Science & Engineering student** with a love for **AI, full-stack development, and anime worlds** 🌙  
 
-🎯 My mission is to **build intelligent systems** that make human life simpler, smarter, and more efficient.  
-
-📚 Recently completed an internship at **Scaler School of Technology**, where I worked on impactful projects and enhanced my development and research skills.  
-
-🧠 I’m currently diving deeper into:
-- Artificial Intelligence & Machine Learning  
-- Full Stack Development (MERN + Flask)  
-- Building AI-powered Web Apps  
-
-💬 Let’s connect — I love discussing **AI, tech, open-source, and productivity tools**!  
-📫 Reach me on [**LinkedIn**](https://www.linkedin.com/in/pathan-mo-faizan-khan)
+💫 I believe code can be **as expressive as art**, and technology is the new form of storytelling.  
+🧠 Currently mastering **Machine Learning**, **Flask**, and **MERN stack**.  
+🎓 Former intern at **Scaler School of Technology**.  
+🌱 Exploring **AI-powered systems** that can make life easier — and maybe a little cooler.  
+🎮 When not coding, I’m watching **Ghibli films** or designing anime-style web UIs.  
 
 ---
 
-## ⚙️ Languages & Tools  
+### 🛠️ Tech Stack & Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,react,flask,git,github,vscode,replit,sklearn,tensorflow,mysql,vercel&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,react,flask,html,css,git,github,vscode,sklearn,tensorflow,mysql,replit,vercel&perline=9" />
 </p>
 
 ---
 
-## 🧩 Projects Spotlight  
+### 🧠 Featured Projects  
 
-Here are a few of my proudest builds:  
-
-| 🔹 Project | 💡 Description | 🚀 Tech Stack |
+| 🌟 Project | 💡 Description | 🧰 Tech Stack |
 |-------------|----------------|---------------|
-| [**AI-Powered Resume Analyzer**](https://github.com/pathan-07/AI-Resume-Analyzer) | Analyzes resumes, matches job roles, and scores candidates using NLP & ML | Python, Flask, HTML, CSS, JS |
-| [**SMS Spam Detection System**](https://github.com/pathan-07/SMS-Spam-Detection) | Detects spam messages using ML models and provides email OTP authentication | Python, Sklearn, Streamlit |
-| [**Scholarship Portal with AI Chatbot**](https://github.com/pathan-07/Scholarship-Portal) | Lists Indian scholarships & includes a Gemini-powered chatbot | Django, Gemini API, SQLite |
-| [**KrishiMitra – Smart Agri Advisor**](#) | AI-powered agriculture advisor with voice, text & image support | Python, Flask, ML, GPS API |
+| [⚙️ **AI-Powered Resume Analyzer**](https://github.com/pathan-07/AI-Resume-Analyzer) | An NLP-based web app that analyzes resumes & scores them based on job roles. | Python, Flask, HTML, JS |
+| [📩 **SMS Spam Detector**](https://github.com/pathan-07/SMS-Spam-Detection) | ML model that classifies SMS as spam/ham + email OTP auth. | Python, Sklearn, Streamlit |
+| [🎓 **Scholarship Portal + AI Chatbot**](https://github.com/pathan-07/Scholarship-Portal) | Lists scholarships in India + Gemini API chatbot for assistance. | Django, Gemini API, SQLite |
+| [🌾 **KrishiMitra**](#) | Smart agriculture assistant using NLP, image analysis, and voice input. | Python, Flask, ML, GPS |
 
 ---
 
-## 📊 GitHub Insights  
+### ⚙️ GitHub Stats  
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=pathan-07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pathan-07&theme=tokyonight&hide_border=true&layout=compact" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=pathan-07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pathan-07&theme=tokyonight&hide_border=true&layout=compact&title_color=00F0FF&bg_color=0D1117" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=pathan-07&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
-## ✨ Fun & Personality  
-
-> 💭 “While humans are busy engaging, I’m busy teaching machines how to learn.”  
-
-🎮 Anime • Coding • Open Source • Tech Memes • Late-night Debugging  
-
----
-
-## 🛰️ Let's Connect  
-
-<p align="center">
-  <a href="https://pathan-faizan-khan.vercel.app/"><img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/></a>
-  <a href="mailto:faizanpathan070@gmail.com"><img src="https://img.shields.io/badge/📩_Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=pathan-07&theme=tokyonight&hide_border=true&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF" alt="GitHub Streak" />
 </p>
 
 ---
 
-⭐️ **From [Pathan Faizan](https://github.com/pathan-07)**  
-> _“Keep learning, keep building, and stay curious.”_
+### 🌸 My Vibe Board  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjNjMmQ3Y2RlNjZjMjQzM2QxYjZkYzA4NjM3M2Q3NjQzMDIxN2ViZCZjdD1n/BcDjg8z1oW9Vw/giphy.gif" width="120" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTZhY2YxNzhkMTFhNmQxYzU2Yzc4MjliOGQ2YmQyMjE4NjQxN2E1MiZjdD1n/3ohs7Ys5bTt4v3NjFe/giphy.gif" width="120" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2YxOTk4ZTZlNmEwNGE4ZjFkM2RiNTY0MWE0ZjJlOTBiMjQ0Y2QyMCZjdD1n/j0kP7F4D1Z9b0/giphy.gif" width="120" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmRkYjY0M2Q5OTdlOWY2ZTQ3NzkxMzc4OTM2N2IzYmY3ZjFhYzBlMiZjdD1n/13HgwGsXF0aiGY/giphy.gif" width="120" />
+</p>
+
+---
+
+### 🌈 Connect with Me  
+
+<p align="center">
+  <a href="https://pathan-faizan-khan.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-0A0A0A?style=for-the-badge&logo=react&logoColor=00F0FF"/></a>
+  <a href="https://www.linkedin.com/in/pathan-mo-faizan-khan"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00F0FF"/></a>
+  <a href="https://github.com/pathan-07"><img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=00F0FF"/></a>
+  <a href="https://x.com/its_khan_070"><img src="https://img.shields.io/badge/X-0A0A0A?style=for-the-badge&logo=x&logoColor=00F0FF"/></a>
+  <a href="mailto:faizanpathan070@gmail.com"><img src="https://img.shields.io/badge/Gmail-0A0A0A?style=for-the-badge&logo=gmail&logoColor=00F0FF"/></a>
+</p>
+
+---
+
+### 🧘 Fun Fact  
+
+> 🪄 *“While humans are engaging, I’m teaching machines how to feel.”*  
+> 💫 *Caffeine + Code + Anime = Infinite Creativity*
+
+---
+
+<h3 align="center">⭐️ From <a href="https://github.com/pathan-07">Pathan Faizan</a> 🌙</h3>
+<p align="center"><img src="https://media.tenor.com/Ng2qQzffKJIAAAAi/ghibli-night-anime.gif" width="200" /></p>
