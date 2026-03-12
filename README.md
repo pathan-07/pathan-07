@@ -33,7 +33,7 @@
 ## ⚙️ Languages & Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,react,nextjs,flask,firebase,git,github,vscode,sklearn,tensorflow,mysql,vercel&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,c,html,css,js,react,nextjs,flask,firebase,git,github,vscode,pandas,supabase,vercel&perline=8" />
 </p>
 
 ---
@@ -44,11 +44,11 @@ Here are a few of my proudest builds:
 
 | 🔹 Project | 💡 Description | 🚀 Tech Stack |
 |-------------|----------------|---------------|
-| **Campus Hub** | Web app prototype built as part of GDG selection to boost campus connectivity. | Next.js, Firebase, Google Genkit |
-| [**ML Challenge 2025**](https://github.com/pathan-07) | Built a predictive model for e-commerce product pricing. | Machine Learning, Python |
-| [**AI-Powered Resume Analyzer**](https://github.com/pathan-07/AI-Resume-Analyzer) | Analyzes resumes, matches job roles, and scores candidates using NLP & ML. | Python, Flask, HTML/CSS/JS |
-| [**Scholarship Portal with AI Chatbot**](https://github.com/pathan-07/Scholarship-Portal) | Platform listing Indian scholarships, featuring a custom Gemini-powered assistant. | Django, Gemini API, SQLite |
-| [**SMS Spam Detection System**](https://github.com/pathan-07/SMS-Spam-Detection) | Detects spam messages using ML models and provides email OTP authentication. | Python, Sklearn, Streamlit |
+| [**Campus Hub**]([https://github.com/pathan-07/campus-hub]) | Web app prototype built as part of GDG selection to boost campus connectivity. | Next.js, Firebase, Google Genkit |
+| [**HackHertz'25**]([https://github.com/pathan-07/Hackhertz2.0]) | Built a website for 36 Hours hackathon. | Next js |
+| [**VoiceKhata**]([https://github.com/pathan-07/VoiceKhata]) | WhatsApp voice-based udhaar manager for kirana shops. | Python, Fast APi, Nextjs |
+| [**ML Challenge 2025**]([https://github.com/pathan-07/ML-Challenge-2025]) | Predicts the price of the given data with the accuracy of Best Validation SMAPE Score: 73.9450%. | PyTorch, Transformers (Hugging Face), timm (PyTorch Image Models), Pandas, Scikit-learn, Pillow |
+| [**Scam Detection**]([https://github.com/pathan-07/Scam-Detection]) | Detects spam messages using LLM Multimodel pipeline. | Python, LLM, Gemini Api |
 
 ---
 
