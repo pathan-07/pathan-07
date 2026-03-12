@@ -1,6 +1,5 @@
-<!-- Banner / Intro Section -->
-<h1 align="center">Hey there 👋, I'm <span style="color:#00BFFF;">Pathan Faizan</span></h1>
-<h3 align="center">🚀 AI & Machine Learning Enthusiast | Full-Stack Developer | Tech Explorer</h3>
+<h1 align="center">Hey there 👋, I'm <span style="color:#00BFFF;">Pathan Mo. Faizan Khan</span></h1>
+<h3 align="center">🚀 AI/ML Enthusiast | GDG On Campus Organizer | Full-Stack Developer</h3>
 
 <p align="center">
   <a href="https://pathan-faizan-khan.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=react&logoColor=white"/></a>
@@ -14,26 +13,27 @@
 
 ## 👨‍💻 About Me  
 
-💡 I’m a **Computer Science and Engineering** student passionate about exploring how **AI and technology** can transform real-world challenges into scalable solutions.  
+💡 I’m a **Computer Science and Engineering** student at SSIT (Class of '27), passionate about exploring how **AI and scalable tech** can solve real-world challenges.  
 
-🎯 My mission is to **build intelligent systems** that make human life simpler, smarter, and more efficient.  
+🎯 My mission is to build intelligent systems that make human life simpler, smarter, and more efficient. Currently, I'm actively building my problem-solving skills through the **GFG 160 DSA Challenge**.
 
-📚 Recently completed an internship at **Scaler School of Technology**, where I worked on impactful projects and enhanced my development and research skills.  
+🥑 **Community & Leadership:** Serving as a **GDG On Campus Organizer (2025-26)**, Tech Member at the SSIT Skill Dev Club, and an active part of the IGNITRONS community. 
 
-🧠 I’m currently diving deeper into:
-- Artificial Intelligence & Machine Learning  
-- Full Stack Development (MERN + Flask)  
-- Building AI-powered Web Apps  
+🌟 **Experience & Open Source:** - Contributor to **GSSoC'25** and OSCI'25.
+- Ex-Intern at **Scaler School of Technology**, **Edunet Foundation**, and TechSaksham (AI: Transformative Learning).
+- Web Developer for Hackhertz 2.0.
+- Enthusiastic about exploring open-source tools like **Gemini CLI** and **n8n**.
 
-💬 Let’s connect — I love discussing **AI, tech, open-source, and productivity tools**!  
-📫 Reach me on [**LinkedIn**](https://www.linkedin.com/in/pathan-mo-faizan-khan)
+🔬 **Beyond Code:** My curiosity extends to the fundamental sciences—I love diving into discussions about **Quantum Mechanics** and **The Theory of Relativity**.
+
+📫 **Let’s connect:** I'm always up for discussing AI, open-source, or the mysteries of the universe. Reach me on [**LinkedIn**](https://www.linkedin.com/in/pathan-mo-faizan-khan).
 
 ---
 
 ## ⚙️ Languages & Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,react,flask,git,github,vscode,replit,sklearn,tensorflow,mysql,vercel&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,react,nextjs,flask,firebase,git,github,vscode,sklearn,tensorflow,mysql,vercel&perline=8" />
 </p>
 
 ---
@@ -44,10 +44,11 @@ Here are a few of my proudest builds:
 
 | 🔹 Project | 💡 Description | 🚀 Tech Stack |
 |-------------|----------------|---------------|
-| [**AI-Powered Resume Analyzer**](https://github.com/pathan-07/AI-Resume-Analyzer) | Analyzes resumes, matches job roles, and scores candidates using NLP & ML | Python, Flask, HTML, CSS, JS |
-| [**SMS Spam Detection System**](https://github.com/pathan-07/SMS-Spam-Detection) | Detects spam messages using ML models and provides email OTP authentication | Python, Sklearn, Streamlit |
-| [**Scholarship Portal with AI Chatbot**](https://github.com/pathan-07/Scholarship-Portal) | Lists Indian scholarships & includes a Gemini-powered chatbot | Django, Gemini API, SQLite |
-| [**KrishiMitra – Smart Agri Advisor**](#) | AI-powered agriculture advisor with voice, text & image support | Python, Flask, ML, GPS API |
+| **Campus Hub** | Web app prototype built as part of GDG selection to boost campus connectivity. | Next.js, Firebase, Google Genkit |
+| [**ML Challenge 2025**](https://github.com/pathan-07) | Built a predictive model for e-commerce product pricing. | Machine Learning, Python |
+| [**AI-Powered Resume Analyzer**](https://github.com/pathan-07/AI-Resume-Analyzer) | Analyzes resumes, matches job roles, and scores candidates using NLP & ML. | Python, Flask, HTML/CSS/JS |
+| [**Scholarship Portal with AI Chatbot**](https://github.com/pathan-07/Scholarship-Portal) | Platform listing Indian scholarships, featuring a custom Gemini-powered assistant. | Django, Gemini API, SQLite |
+| [**SMS Spam Detection System**](https://github.com/pathan-07/SMS-Spam-Detection) | Detects spam messages using ML models and provides email OTP authentication. | Python, Sklearn, Streamlit |
 
 ---
 
@@ -66,9 +67,9 @@ Here are a few of my proudest builds:
 
 ## ✨ Fun & Personality  
 
-> 💭 “While humans are busy engaging, I’m busy teaching machines how to learn.”  
+> 💭 _“While humans are busy engaging, I’m busy teaching machines how to learn.”_  
 
-🎮 Anime • Coding • Open Source • Tech Memes • Late-night Debugging  
+🎮 Anime • 💻 Open Source • 🌌 Quantum Mechanics • 🧑‍💻 Late-night Debugging  
 
 ---
 
@@ -81,5 +82,4 @@ Here are a few of my proudest builds:
 
 ---
 
-⭐️ **From [Pathan Faizan](https://github.com/pathan-07)**  
-> _“Keep learning, keep building, and stay curious.”_
+⭐️ **From [Pathan Faizan](https://github.com/pathan-07)** > _“Keep learning, keep building, and stay curious.”_
